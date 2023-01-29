@@ -1,3 +1,1 @@
-gost://dsuwhd.srg674.ga#27fba3aa-d276-4a9b-b9b1-25cec5f31e91# 
-gost://dswbGWd.srg674.ga#27fba3aa-d276-4a9b-b9b1-25cec5f31e91# 
-gost://sppwiw.srg674.ga#27fba3aa-d276-4a9b-b9b1-25cec5f31e91# 
+vmess://ws+tls:d63e6c92-1362-4f5f-b269-55cc482af11e-0@172.67.152.126:443/?path=/bzXdv08eofXa&tlsServerName=6c16tyu.shoftidenw23.ml#vmess@172.67.152.126:443
